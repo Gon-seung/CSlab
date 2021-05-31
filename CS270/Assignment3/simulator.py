@@ -2,7 +2,7 @@ from simulator_hidden import *
 
 mySimulator = Simulator()
 myRobot = mySimulator.robot
-
+#1
 def move_forward():
 	if mySimulator.finished:
 		return mySimulator.state
