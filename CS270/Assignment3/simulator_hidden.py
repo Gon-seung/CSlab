@@ -208,7 +208,7 @@ class Simulator():
 		for i,j in self.lake_border:
 			pygame.draw.rect(self.screen, blue, pygame.Rect(border + i*(block+line), border + j*(block+line), block, block))
 
-		# Goal block
+		# Goal block1
 		pygame.draw.rect(self.screen, yellow, pygame.Rect(border + self.goal[0]*(block+line), border + self.goal[1]*(block+line), block, block))
 
 	def set_random_blocks(self, num_lake = 8):
