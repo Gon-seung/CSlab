@@ -11,7 +11,7 @@ font = pygame.font.Font('freesansbold.ttf', 32)
 
 clock = pygame.time.Clock()
 
-## Colors
+## Colors1
 black = (0,0,0)
 white = (255,255,255)
 gray = (100,100,100)
