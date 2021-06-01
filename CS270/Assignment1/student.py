@@ -12,7 +12,7 @@ blue = (0,180,255)
 #### Write your code here ####
 ##############################
 
-# How to use the functions:
+# How to use the functions:1
 # (left_color, right_color), ir_sensor = get_sensors()
 # move_forward(how_much)
 # submit(lake_list=[(x1,y1),(x2,y2)...], building_list=[(x1,y1),(x2,y2)...])
