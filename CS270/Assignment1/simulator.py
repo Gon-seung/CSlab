@@ -2,7 +2,7 @@ from simulator_hidden import *
 
 mySimulator = Simulator()
 myRobot = mySimulator.robot
-
+#1
 def get_sensors():
 	return mySimulator.color_sensor, mySimulator.ir_sensor
 
