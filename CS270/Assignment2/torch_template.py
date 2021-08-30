@@ -110,7 +110,7 @@ def main():
 
 		train(model, device, train_loader, optimizer, epoch)
 		test(model, device, test_loader)
-	save_models(model)
+	#save_models(model)
 
 
 if __name__ == "__main__":

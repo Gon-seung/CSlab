@@ -321,5 +321,5 @@ class Simulator():
 			date = datetime.now().strftime('%Y-%m-%d-%H-%M-%S')
 
 			# save the file
-			with open('logs/'+date+".txt", 'w') as file:
-				file.write(mytextstring)
+			#with open('logs/'+date+".txt", 'w') as file:
+			#	file.write(mytextstring)
